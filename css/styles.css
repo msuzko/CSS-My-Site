@@ -1,3 +1,11 @@
+div {
+  background-color: #e3fdfd;
+}
 body {
-  background-color: blue;
+  margin: 0;
+}
+h1 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
 }
