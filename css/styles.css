@@ -1,11 +1,33 @@
-div {
-  background-color: #e3fdfd;
-}
 body {
   margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #e3fdfd;
 }
 h1 {
-  margin-left: 0;
-  margin-right: 0;
   margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-conteiner {
+  background-color: #e3fdfd;
+}
+.middle-container {
+
+}
+.bottom-container {
+
+}
+.bottom-cloud {
+  position: absolute;
+}
+.top-cloud {
+  margin-top: 50px;
+  margin-left: 20%
 }
