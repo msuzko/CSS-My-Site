@@ -83,13 +83,41 @@ hr {
 .top-container {
   margin-top: 20%;
 }
+
+/* Middle */
+/* Hello */
+.middle-container {
+  padding: 3% 0%;
+}
 .profile {
+  max-width: 900px;
+  margin: auto;
+  text-align: center;
+}
+.intro {
   text-align: center;
 }
 
-.middle-container {
-  padding: 3% 15%;
+/* Skills */
+
+.skill-row {
+  max-width: 900px;
+  margin: 70px auto;
+  padding: 30px;
+  text-align: left;
 }
+
+
+
+/* Hobbies */
+
+.hobby-row {
+  width: 900px;
+  margin: 70px auto;
+  padding: 30px;
+  text-align: left;
+}
+
 
 .bottom-container {
   padding: 50px 0 20px;
@@ -109,26 +137,10 @@ hr {
   top: 40px;
 }
 
-.intro {
-  text-align: center;
-}
 .row {
   margin: auto;
 }
 
-.skill-row {
-  width: 70%;
-  margin: 70px auto;
-  padding: 30px;
-  text-align: left;
-}
-
-.hobby-row {
-  width: 70%;
-  margin: 70px auto;
-  padding: 30px;
-  text-align: left;
-}
 
 .code-left-img {
   width: 150px;
