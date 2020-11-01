@@ -49,10 +49,7 @@ h3 {
 }
 
 a {
-  color: #11999E;
-  font-family: 'Montserrat', sans-serif;
-  padding: 10px 20px;
-  text-decoration: none;
+
 }
 
 a:hover {
@@ -92,9 +89,13 @@ hr {
 .top-container {
   margin-top: 20%;
 }
+.profile {
+  text-align: center;
+}
 
 .middle-container {
-  margin: 100px 0 100px;
+  /* margin: 100px 0 100px; */
+  padding: 3% 15%;
 }
 
 .bottom-container {
@@ -116,7 +117,9 @@ hr {
 }
 
 .intro {
-  width: 30%;
+  text-align: center;
+}
+.row {
   margin: auto;
 }
 
@@ -163,6 +166,9 @@ hr {
   margin: 40px auto 60px;
   text-align: center;
 }
+.contact-me {
+  margin-bottom: 50px;
+}
 
 .contact_me_btn {
   background: #11CDD4;
@@ -208,6 +214,10 @@ hr {
   padding: 10px 20px;
   text-decoration: none;
   font-size: 1.2rem;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  padding: 10px 20px;
+  text-decoration: none;
 }
 .footer-link:hover {
   color: #EAF6F6;
